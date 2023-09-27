@@ -8,11 +8,12 @@
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, sans-serif; /* "Lucida Console", "Courier New", monospace */
   }
 
-   text { 
-     text-align: justify;
-     text-justify: inter-word;
 
+   text {
+      text-align: "justify";
+      text-justify: "inter-word";
    }
+   
 
  img {
   height: 250px;
